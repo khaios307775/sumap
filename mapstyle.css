@@ -1,0 +1,7 @@
+body {
+    background-color: rgba(2, 2, 58, 0.288);
+}
+#map {
+    height: 500px; 
+    width: 100%; 
+}
